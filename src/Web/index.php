@@ -9,7 +9,7 @@
     <title> Projeto Classes OOP PHP </title>
 </head>
 <body>
-<?php include_once('index.html');?>
+<?php include_once('../index.html');?>
 <?php include_once('header.php')?>
 <?php include_once('../app.php');?>
 <?php echo "<br> php rodando... <br>"?>
